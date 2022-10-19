@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+         "name" : "Standard Single Room",
+         "img" : "./img/singlebed.jpg",
+         "capacity" : "1",
+         "bed" : "1",
+         "price" : 119
+    },
+    {
+        "id" : 2,
+         "name" : "Couple Power Room",
+         "img" : "./img/doublebed.jpg",
+         "capacity" : "2",
+         "bed" : "1",
+         "price" : 149
+    },
+    {
+        "id" : 3,
+         "name" : "Family Capacity Room",
+         "img" : "./img/fimilybedroom.jpg",
+         "capacity" : "4",
+         "bed" : "2",
+         "price" : 199
+    }
+]
